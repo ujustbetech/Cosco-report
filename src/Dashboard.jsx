@@ -218,7 +218,7 @@ const Dashboard = () =>{
       <div className="bg-gradient-to-r from-blue-700 via-blue-600 to-indigo-700 text-white shadow-xl">
         <div className="max-w-7xl mx-auto px-6 py-5">
           <a
-  href="https://coscoamcmonitor.vercel.app/"
+  href="https://cosco-amc-monitoring.vercel.app/"
   className="inline-flex items-center gap-2 text-sm text-blue-100 hover:text-white mb-3"
 >
   <b><u>Back</u></b>
@@ -816,3 +816,4 @@ const Dashboard = () =>{
 
 
 export default Dashboard;
+
